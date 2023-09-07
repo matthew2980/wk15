@@ -1,0 +1,25 @@
+week 8 performance and seo review
+
+result scores for performance and seo: 62, 80, 92, 91
+
+seo pass: 91
+
+performance fail: 62
+
+summary:performance how to improve
+
+Largest Contentful Paint
+
+focus on optimizing images and videos, render-blocking resources , optimizing fonts, using a Content Delivery Network, reducing third-party scripts, prioritizing critical CSS, reducing server response times, implementing lazy loading, minimizing DOM size, prioritizing visible content, and regularly testing and monitoring performance. LCP measures how quickly the largest content element in the viewport becomes visible, so these optimizations will enhance user experience and website speed.
+
+Cumulative Layout Shift
+
+To improve the Largest Contentful Paint metric on your website, optimize images and videos, minimize render-blocking resources, prioritize font loading, deliver content efficiently through a CDN, minimize third-party scripts, inline critical CSS, reduce server response times, implement lazy loading, keep the DOM size minimal, ensure the largest content element loads early, and continuously test and monitor your website's performance using various tools. These efforts will help enhance user experience by making the largest content element appear quickly, reducing page load times, and improving overall website performance.
+
+Total Blocking Time
+
+improving the Largest Contentful Paint metric on your website, focus on optimizing images and videos, minimizing render-blocking resources like CSS and JavaScript, prioritizing font loading, leveraging content delivery networks , reducing third-party scripts, prioritizing critical CSS, optimizing server response time, implementing lazy loading, reducing DOM size, and ensuring that the largest content element is visible early in the HTML. Regularly test and monitor your website's performance to identify and address issues. Improving LCP is crucial for enhancing user experience and overall web performance.
+
+Speed Index
+
+improving Optimize images and videos, minimize render-blocking resources, prioritize critical CSS to make the initial rendering faster, and use lazy loading for non-critical elements. Additionally, prioritize server response time optimization, minimize the number of HTTP requests, and ensure efficient code execution. Continuous testing and monitoring with tools like Lighthouse and WebPageTest will help you pinpoint and address performance bottlenecks for a faster and smoother user experience.
