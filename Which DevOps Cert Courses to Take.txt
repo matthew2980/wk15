@@ -1,0 +1,13 @@
+Of the provided DevOps Certification courses available from our resources, the ones that seem the most interesting is:
+
+1. Continuous Delivery & DevOps
+ This one is the longest of those selected, but it is more extensive and comes with a certificate produced by the work. I would consider this to be the one with the most indepth look at lean architecture.
+
+2. DevOps Culture and Mindset
+ This set reinforces the first course as a way to ensure retention. Combined with the later and shorter courses, it should provide a good system-agnostic overview of how the DevOps philosophy works in action.
+
+6. Getting Started with DevOps on AWS
+ This one is super simple and designed to be done through a day, which makes it a great first pick just to understand the basics of DevOps management.
+
+10. DevOps -- The Introduction Course
+ Like 1 and 2, 6 and 10 will reinforce each other as similar, briefer courses.

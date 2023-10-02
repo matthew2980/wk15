@@ -1,0 +1,3 @@
+Why CLI over the AWS Console?
+
+The primary reason to use the command line interface is because it offers you a ton of automation for a bunch of repetitive tasks that can be a real chore to put together. The CLI and the AWS console both work cooperatively, but you'll want to pick one over the other for various reasons depending on what exactly you're trying to do. The console itself is much more visually pleasing and less obtuse on exactly what is happening. That being said, the CLI itself can be faster and offers plenty of way to boost developer productivity as long as you know the commands and what kind of template you're trying to set up.
