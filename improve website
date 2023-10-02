@@ -1,0 +1,19 @@
+To improve Cumulative Layout Shift  on your website, focus on specifying dimensions for images, 
+videos, ads, and iframes to prevent sudden shifts, preload fonts, implement lazy loading for non-essential content,
+avoid dynamic content injection, optimize third-party scripts, use CSS transitions for animations, and ensure a responsive design.
+Regularly test and monitor your site's CLS to address any issues promptly and provide a more stable and user-friendly browsing experience.
+
+To improve the Largest Contentful Paint metric on your website, focus on optimizing images and videos,
+minimizing render-blocking resources like CSS and JavaScript, prioritizing font loading, leveraging content delivery networks ,
+reducing third-party scripts, prioritizing critical CSS, optimizing server response time, implementing lazy loading, reducing DOM size,
+and ensuring that the largest content element is visible early in the HTML.
+Regularly test and monitor your website's performance to identify and address issues.
+Improving LCP is crucial for enhancing user experience and overall web performance.
+
+To improve the Speed Index of your website, focus on reducing the render time for the entire page. Optimize images and videos,
+minimize render-blocking resources, prioritize critical CSS to make the initial rendering faster,
+and use lazy loading for non-critical elements. Additionally, prioritize server response time optimization,
+minimize the number of HTTP requests, and ensure efficient code execution.
+Continuous testing and monitoring with tools like Lighthouse and WebPageTest will help you pinpoint and address performance bottlenecks
+for a faster and smoother user experience
+
